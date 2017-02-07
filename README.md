@@ -6,15 +6,20 @@ It features mocha, which ran tests to enhance my understanding of Express and Mo
 It features the following API commands:-
 
 1. Get on '/api'
-  This API call gets all the drivers in the database
+
+	This API call gets all the drivers in the database
 2. Get on '/api/:id'
-  This API call gets the driver with the corresponding id
+
+	This API call gets the driver with the corresponding id
 3. Post on '/api/drivers'
-  This API call creates a new driver
+	
+	This API call creates a new driver
 4. Put on '/api/drivers/:id'
-  This API call updates an existing driver
+
+	This API call updates an existing driver
 5. Delete on 'api/drivers/:id'
-  This API call deletes an existing driver
+
+	This API call deletes an existing driver
 
 
 
